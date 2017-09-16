@@ -1,0 +1,15 @@
+#shortgamelogo {
+    width: 200px; height:100px;
+    margin: 1% 10% 0% 10%;
+    display: block;
+}
+
+footer {
+    display:block;
+    text-align:center;
+}
+.section {
+    display:block;
+    text-algin:center;
+    background-color: wheat;
+}
