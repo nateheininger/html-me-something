@@ -1,15 +1,49 @@
-#shortgamelogo {
-    width: 200px; height:100px;
+p {
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Arial;
+}
+header {
+    display:block;
+    text-align:center;
+    background-color: orange;
+
+}
+
+.opening {
+    display:block;
+    text-align:center;
+    background-color: wheat;
     margin: 1% 10% 0% 10%;
-    display: block;
+}
+main {
+    background-color: grey;
+}
+#shortgamelogo {
+    display:block;
+    text-align:center;
+    background-color: wheat;
+    margin: 1% 10% 5% 10%;
 }
 
 footer {
     display:block;
     text-align:center;
+    background-color: grey;
 }
 .section {
     display:block;
-    text-algin:center;
+    text-align:center;
     background-color: wheat;
+    margin: 1% 12% 0% 12%;
+    border: 1px solid black;
+}
+div img {
+    height:200px; width: 400px;
+}
+
+#shortgamelogo {
+    height: 300px; width; 500px;
 }
