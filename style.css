@@ -1,7 +1,6 @@
 p {
     font-family: Arial;
 }
-
 h1 {
     font-family: Arial;
 }
@@ -9,9 +8,7 @@ header {
     display:block;
     text-align:center;
     background-color: orange;
-
 }
-
 .opening {
     display:block;
     text-align:center;
@@ -27,7 +24,6 @@ main {
     background-color: wheat;
     margin: 1% 10% 5% 10%;
 }
-
 footer {
     display:block;
     text-align:center;
@@ -44,7 +40,6 @@ footer {
 div img {
     height:200px; width: 400px;
 }
-
 #shortgamelogo {
     height: 300px; width; 500px;
 }
